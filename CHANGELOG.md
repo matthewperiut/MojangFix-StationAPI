@@ -1,2 +1,1 @@
-- Migrate to GCAPI3 (the latest version of GlassConfigAPI)
-- Allow version text to be toggled without requiring a restart
+- Always include JSON library with mod
